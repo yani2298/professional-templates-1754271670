@@ -1,0 +1,30 @@
+{
+  "name": "professional-templates-1754271670",
+  "version": "1.0.0",
+  "description": "Templates professionnels pour projets GitHub",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "lint": "eslint src/",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "github",
+    "automation",
+    "productivity",
+    "open-source",
+    "professional"
+  ],
+  "author": "yani2298",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yani2298/professional-templates-1754271670.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yani2298/professional-templates-1754271670/issues"
+  },
+  "homepage": "https://github.com/yani2298/professional-templates-1754271670#readme"
+}
